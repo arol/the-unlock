@@ -1,0 +1,21 @@
+{
+  "name": "unblock",
+  "authors": [
+    "Arol <arolet@gmail.com>"
+  ],
+  "description": "Simple front-end to serve smartphone wallpapers",
+  "main": "",
+  "license": "MIT",
+  "homepage": "http://theunblock.co/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}

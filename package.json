@@ -1,0 +1,15 @@
+{
+  "name": "unblock",
+  "version": "1.0.0",
+  "description": "A little front-end to serve images from a newsletter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arol <arolet@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.14.3",
+    "gulp": "^3.9.1"
+  }
+}
